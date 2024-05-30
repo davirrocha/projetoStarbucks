@@ -112,8 +112,13 @@ button {
         padding: 0;
     }
 
+    img{
+        margin: 10px 10px ;
+    }
+
     .content {
         width: 100%;
+        margin-left: 10px;
     }
 
 
