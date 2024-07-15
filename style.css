@@ -110,10 +110,11 @@ button {
         display: flex;
         flex-direction: column;
         padding: 0;
+        gap: 10px;
     }
 
-    img{
-        margin: 10px 10px ;
+    img {
+        margin: 10px 10px;
     }
 
     .content {
@@ -145,7 +146,7 @@ button {
         height: 280px;
         clip-path: none;
         position: absolute;
-        top: 620px;
+        top: 655px;
         left: 46px;
         border-radius: 50%;
     }
@@ -153,8 +154,8 @@ button {
     .copao {
         position: absolute;
         bottom: 0;
-        top: 647px;
-        left: 114px;
+        top: 680px;
+        left: 110px;
         width: 150px;
     }
 
